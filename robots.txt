@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Add the final absolute Sitemap URL after deployment.
