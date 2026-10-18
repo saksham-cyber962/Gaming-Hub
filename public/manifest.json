@@ -1,0 +1,19 @@
+{
+  "short_name": "Gaming Hub",
+  "name": "Gaming Hub - Free HTML5 & Esports Games",
+  "description": "Play 150+ instant games online for free on Gaming Hub. Zero installation, touch-friendly, AI game studio, and instant play.",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#07070e",
+  "theme_color": "#0a0a14",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "categories": ["games", "entertainment"]
+}
