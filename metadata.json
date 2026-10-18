@@ -1,0 +1,8 @@
+{
+  "name": "GAMING HUB - Esports & HTML5 Gaming Platform",
+  "description": "Mobile-first Web3/HTML5 esports and casual gaming platform with 150+ verified games, zero-lag 3D arena, touch controls, and AI game companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

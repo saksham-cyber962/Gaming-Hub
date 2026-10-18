@@ -1,0 +1,28 @@
+{
+  "catalog_entries": 151,
+  "self_hosted": 7,
+  "duplicate_ids": 0,
+  "duplicate_slugs": 0,
+  "public_catalog_filtered_to_self_hosted": true,
+  "runner_player_wired": true,
+  "internal_ids": [
+    "neon-runner",
+    "cyber-racer-3d",
+    "neon-2048",
+    "neon-minesweeper",
+    "neon-snake",
+    "cyber-breakout",
+    "neon-tictactoe"
+  ],
+  "game_component_files": [
+    "CyberBreakout.tsx",
+    "CyberRacer3D.tsx",
+    "Neon2048.tsx",
+    "NeonRunner.tsx",
+    "NeonSnake.tsx",
+    "NeonTicTacToe.tsx",
+    "RetroMinesweeper.tsx"
+  ],
+  "external_live_test": "NOT RUN: network/browser unavailable",
+  "production_build": "BLOCKED: npm offline cache missing @google/genai"
+}
